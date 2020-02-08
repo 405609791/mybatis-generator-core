@@ -1,0 +1,3 @@
+1、src 最初应该是空的。
+2、只需要拷贝出 mybatise-generator-core 文件夹即可
+3、仔细修改config.xml文件
